@@ -1,0 +1,56 @@
+---
+title: "Creating interactive modules for teaching with sports data"
+format: gfm
+---
+
+> This page provides information and resources for the [USCOTS 2025 workshop](https://www.causeweb.org/cause/uscots/uscots25/program/workshops/w13){target="_blank"} on creating statistics and data science teaching modules with sports data, hosted by the [SCORE Network](https://scorenetwork.org){target="_blank"}.
+
+## About the Workshop
+
+This 3-hour workshop introduces participants to the SCORE Network—an NSF-funded initiative that supports sports-based statistics education. Participants will explore examples, brainstorm their own module ideas, and begin outlining a new module for submission. Modules submitted within four weeks of USCOTS will receive an **expedited peer review**.
+
+No strong sports knowledge required...but an interest in using real data in the classroom is mandatory!
+
+## Additional  Resources
+
+### SCORE Related
+
+- SCORE Network website: [scorenetwork.org](https://scorenetwork.org){target="_blank"}  
+  + For general information about the project (and links to all materials).
+- Datasets Repository: [data.scorenetwork.org](https://data.scorenetwork.org){target="_blank"}  
+  + Lots of example datasets that can be used to start the process of building a module.
+- GitHub module repo: [SCORE Module Repository](https://modules.scorenetwork.org/){target="_blank"}
+  + The [preprint servers](https://modules.scorenetwork.org/preprints.html){target="_blank"} also have a lot of additional modules to peruse.
+
+### GitHub Related
+
+- Beginner: Use [GitHub Desktop](https://github.com/apps/desktop){target="_blank"} to access repository materials on your computer.
+  + 
+- Advanced: Learn How to _Integrate Git and GitHub into your daily work with R and R Markdown_ via [https://happygitwithr.com/](https://happygitwithr.com/){target="_blank"}
+
+
+
+
+
+## Example Module Ideas & Datasets
+
+To help you get started, here are a few examples and templates.
+
++ [Example Modules](https://github.com/iramler/score_uscots_2025_workshop/tree/main/module_examples){target="_blank"}
++ [Module Templates](module_templates/)
++ [Data Repository Template](module_templates/_dataset-template.qmd)
++ [Ideas to help you start brainstorming your own](https://iramler.github.io/score_uscots_2025_workshop/module_ideas.html){target="_blank"}.
+
+
+## Surveys
+
+Pre-workshop: Please fill out this survey before the workshop so we have a sense as to what people are interested in!
+
+- [https://forms.gle/u7Dio3YtDDDNjkV9A](https://forms.gle/u7Dio3YtDDDNjkV9A){target="_blank"}
+
+Post-workshop: Please fill out this survey after the workshop so we can better understand what when well and what didn't!
+
+- [https://forms.gle/LaYDFDRbE1eEvW2X7](https://forms.gle/LaYDFDRbE1eEvW2X7){target="_blank"}
+
+---
+*Workshop leads: Ivan Ramler (St. Lawrence University), Nick Clark (St. Thomas University), Robin Lock (St. Lawrence University), Michael Schuckers (University of North Carolina - Charlotte)*
