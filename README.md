@@ -1,13 +1,16 @@
-# Creating interactive modules for teaching with sports data
+# Engaging students with sports examples through SCORE
 
 
 > This page provides information and resources for the <a
-> href="https://www.causeweb.org/cause/uscots/uscots25/program/workshops/w13"
-> target="_blank">USCOTS 2025 workshop</a> on creating statistics and
-> data science teaching modules with sports data, hosted by the
-> <a href="https://scorenetwork.org" target="_blank">SCORE Network</a>.
+> href="https://www.causeweb.org/cause/uscots/uscots25/program/breakouts/4C"
+> target="_blank">USCOTS 2025 Breakout Session</a> on different
+> strategies for using resources from NSF-funded Sports Content for
+> Outreach, Research, and Education,
+> <a href="https://scorenetwork.org" target="_blank">SCORE Network</a>,
+> to engage students with sports-motivated statistics activities and
+> data.
 
-## About the Workshop
+## About this Breakout Session
 
 This 3-hour workshop introduces participants to the SCORE Network—an
 NSF-funded initiative that supports sports-based statistics education.
