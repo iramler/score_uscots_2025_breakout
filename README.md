@@ -22,9 +22,8 @@
 
 ## What is SCORE?
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eBasNuOMTUs?si=ZUYhT4FSwc_7jUbQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen>
-
-</iframe>
+[![The SCORE
+Network](https://img.youtube.com/vi/eBasNuOMTUs/0.jpg)](https://www.youtube.com/watch?v=eBasNuOMTUs&t=1s)
 
 - SCORE Network website:
   <a href="https://scorenetwork.org" target="_blank">scorenetwork.org</a>
@@ -57,22 +56,47 @@ more sport-related dataset(s).
 - <a href="https://isle.stat.cmu.edu/SCORE/Marathons_SCORE_Template/"
   target="_blank">Marathon Record-Setting Over Time</a>
 
-## Level 2 - Student Choice (Dataset Repository)
+## Level 2 - Student Choice (Data Repository)
 
-- Datasets Repository: <a href="https://data.scorenetwork.org"
+- Data Repository: <a href="https://data.scorenetwork.org"
   target="_blank">data.scorenetwork.org</a>
   - Lots of example datasets that can be used to start the process of
     building a module.
 
-ACTIVITY - TBD
+### BREAKOUT ACTIVITY - Find some data!
 
-## Level 3 - Student Contributions
+Take the role of a student and use the SCORE Data Repository to datasets
+for each of the projects outlined below:
 
-- Student reviews <a
+### Project \#1: Data Description
+
+Find a dataset with at least 30 cases and information for at least one
+categorical and three quantitative variables. Use summary statistics and
+graphs to describe individual variables and any interesting
+relationships between them.
+
+### Project \#3: Regression
+
+Find a dataset with a quantitative variable that you would like to
+predict and 3-5 potential predictors. Look at satterplots, correlations,
+and simple linear models to see which are effective predictors.
+
+## Level 3 - Student Contributions (Review and/or Submit Materials)
+
+A good activity for a Sports Analytics Club or individual students
+interested in sports-based statistics applications is to work through a
+SCORE module (especially those in the preprint repositories) and provide
+a student review of the materials.
+
+- Link for student reviews <a
   href="https://docs.google.com/forms/d/e/1FAIpQLSd7Sigx6d8h4RHu0EsybC4K6C1aUFL5t1AcpwlPj897eOtC9A/viewform"
   target="_blank">Google form for Student Reviews</a>
-  - Have your students work through and then review a proposed SCORE
-    module
+  - Form will include a dropdown list of modules to review.
+
+Many of the submissions to the SCORE Data and Module Repositories have
+originated from undergraduate students. Submitting a dataset is
+generally a good first step, before expanding to do a full module.
+
 - Submit a module, module idea, or dataset:
   <a href="https://scorenetwork.org/submissions.html"
   target="_blank">scorenetwork.org/submissions.html</a>
