@@ -48,13 +48,20 @@ more sport-related dataset(s).
 - <a
   href="https://modules.scorenetwork.org/esports/league-of-legends-buffing-nerfing/"
   target="_blank">League of Legends - Buffing and Nerfing</a>
-
+  - Investigating game play statistics for League of Legends champions
+    in two different patches.
+  - Uses histograms and outlier detection (1.5 IQR Rule)
 - <a
   href="https://iramler.github.io/slu_score_preprints/basketball/nba_wingspans_and_performance/"
-  target="_blank">NBA Wingspan &amp; Performance</a>
-
+  target="_blank">NBA Wingspan &amp; Performance (Preprint Server)</a>
+  - Exploring wingspan and performance in the NBA by cleaning, merging
+    and analyzing datasets.
+  - Webscraping, Data Visualization, Data Wrangling, Joining / Merging
 - <a href="https://isle.stat.cmu.edu/SCORE/Marathons_SCORE_Template/"
   target="_blank">Marathon Record-Setting Over Time</a>
+  - Determining whether the setting of world records in the marathon is
+    historically a Poisson process.
+  - Includes extra topics such as the memoryless property
 
 ## Level 2 - Student Choice (Data Repository)
 
@@ -78,8 +85,9 @@ relationships between them.
 ### Project \#3: Regression
 
 Find a dataset with a quantitative variable that you would like to
-predict and 3-5 potential predictors. Look at satterplots, correlations,
-and simple linear models to see which are effective predictors.
+predict and 3-5 potential predictors. Look at scatterplots,
+correlations, and simple linear models to see which are effective
+predictors (possibly also include multiple regression models).
 
 ## Level 3 - Student Contributions (Review and/or Submit Materials)
 
