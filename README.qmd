@@ -15,6 +15,8 @@ format: gfm
 
 * Level 3 - Student contributions (Review/Create SCORE materials)
 
+[Link to PowerPoint slides for this session](USCOTS 2025 SCORE Breakout.pptx){target="_blank"}  
+
 ## What is SCORE? 
 
 [![The SCORE Network](https://img.youtube.com/vi/eBasNuOMTUs/0.jpg)](https://www.youtube.com/watch?v=eBasNuOMTUs&t=1s)
@@ -91,7 +93,7 @@ Many of the submissions to the SCORE Data and Module Repositories have originate
 - Link for student reviews: 
 [Google form for Student Reviews](https://docs.google.com/forms/d/e/1FAIpQLSd7Sigx6d8h4RHu0EsybC4K6C1aUFL5t1AcpwlPj897eOtC9A/viewform){target="_blank"}
 
-
+- [Join the SCORE Network!](https://docs.google.com/forms/d/e/1FAIpQLSdwSPpYgbJdCRQmDXZbb7-n2I4wcN4-KRXwrsNUtpT1Qxc5Fw/viewform){target="_blank"}
 
 
 ---

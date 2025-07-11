@@ -20,6 +20,9 @@
 
 - Level 3 - Student contributions (Review/Create SCORE materials)
 
+<a href="USCOTS%202025%20SCORE%20Breakout.pptx" target="_blank">Link to
+PowerPoint slides for this session</a>
+
 ## What is SCORE?
 
 [![The SCORE
@@ -132,6 +135,10 @@ generally a good first step, before expanding to do a full module.
 - Link for student reviews: <a
   href="https://docs.google.com/forms/d/e/1FAIpQLSd7Sigx6d8h4RHu0EsybC4K6C1aUFL5t1AcpwlPj897eOtC9A/viewform"
   target="_blank">Google form for Student Reviews</a>
+
+- <a
+  href="https://docs.google.com/forms/d/e/1FAIpQLSdwSPpYgbJdCRQmDXZbb7-n2I4wcN4-KRXwrsNUtpT1Qxc5Fw/viewform"
+  target="_blank">Join the SCORE Network!</a>
 
 ------------------------------------------------------------------------
 
