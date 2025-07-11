@@ -10,20 +10,33 @@
 > to engage students with sports-motivated statistics activities and
 > data.
 
-## About this Breakout Session
+## Brief Outline
 
-This 3-hour workshop introduces participants to the SCORE Network—an
-NSF-funded initiative that supports sports-based statistics education.
-Participants will explore examples, brainstorm their own module ideas,
-and begin outlining a new module for submission. Modules submitted
-within four weeks of USCOTS will receive an **expedited peer review**.
+- What is SCORE?
 
-No strong sports knowledge required…but an interest in using real data
-in the classroom is mandatory!
+- Level 1 - Instructor choice (SCORE modules)
 
-## Additional Resources
+- Level 2 - Student choice (SCORE Datasets)
 
-### SCORE Related
+- Level 3 - Student contributions (Review/Create SCORE materials)
+
+## What is SCORE?
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eBasNuOMTUs?si=ZUYhT4FSwc_7jUbQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen>
+
+</iframe>
+
+- SCORE Network website:
+  <a href="https://scorenetwork.org" target="_blank">scorenetwork.org</a>
+  - For general information about the project (and links to all
+    materials).
+
+## Level 1 - Instructor Choice (Modules)
+
+A SCORE module is a collection of teaching materials built around one or
+more sports-based datasets
+
+### Useful links
 
 - SCORE Network website:
   <a href="https://scorenetwork.org" target="_blank">scorenetwork.org</a>
@@ -33,22 +46,19 @@ in the classroom is mandatory!
   target="_blank">data.scorenetwork.org</a>
   - Lots of example datasets that can be used to start the process of
     building a module.
-- GitHub module repo:
-  <a href="https://modules.scorenetwork.org/" target="_blank">SCORE Module
-  Repository</a>
+- Module Repository:
   - The <a href="https://modules.scorenetwork.org/preprints.html"
     target="_blank">preprint servers</a> also have a lot of additional
     modules to peruse.
-
-### GitHub Related
-
-- Beginner: Use
-  <a href="https://github.com/apps/desktop" target="_blank">GitHub
-  Desktop</a> to access repository materials on your computer.
-  - 
-- Advanced: Learn How to *Integrate Git and GitHub into your daily work
-  with R and R Markdown* via <a href="https://happygitwithr.com/"
-  target="_blank">https://happygitwithr.com/</a>
+- Submit a module, module idea, or dataset:
+  <a href="https://scorenetwork.org/submissions.html"
+  target="_blank">scorenetwork.org/submissions.html</a>
+  - Instructions on how to submit materials to SCORE
+- Link for student reviews: <a
+  href="https://docs.google.com/forms/d/e/1FAIpQLSd7Sigx6d8h4RHu0EsybC4K6C1aUFL5t1AcpwlPj897eOtC9A/viewform"
+  target="_blank">Google form for Student Reviews</a>
+  - Have your students work through and then review a proposed SCORE
+    module
 
 ## Example Module Ideas & Datasets
 
