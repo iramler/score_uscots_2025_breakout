@@ -34,61 +34,75 @@
 ## Level 1 - Instructor Choice (Modules)
 
 A SCORE module is a collection of teaching materials built around one or
-more sports-based datasets
+more sport-related dataset(s).
 
-### Useful links
+- Module Repository: <a href="https://modules.scorenetwork.org"
+  target="_blank">modules.scorenetwork.org</a>
+  - Links to existing modules, searchable by sport and statistical
+    topic.
+  - The <a href="https://modules.scorenetwork.org/preprints.html"
+    target="_blank">preprint servers</a> also have a lot of additional
+    modules to peruse.
 
-- SCORE Network website:
-  <a href="https://scorenetwork.org" target="_blank">scorenetwork.org</a>
-  - For general information about the project (and links to all
-    materials).
+### Three Examples
+
+- <a
+  href="https://modules.scorenetwork.org/esports/league-of-legends-buffing-nerfing/"
+  target="_blank">League of Legends - Buffing and Nerfing</a>
+
+- <a
+  href="https://iramler.github.io/slu_score_preprints/basketball/nba_wingspans_and_performance/"
+  target="_blank">NBA Wingspan &amp; Performance</a>
+
+- <a href="https://isle.stat.cmu.edu/SCORE/Marathons_SCORE_Template/"
+  target="_blank">Marathon Record-Setting Over Time</a>
+
+## Level 2 - Student Choice (Dataset Repository)
+
 - Datasets Repository: <a href="https://data.scorenetwork.org"
   target="_blank">data.scorenetwork.org</a>
   - Lots of example datasets that can be used to start the process of
     building a module.
-- Module Repository:
-  - The <a href="https://modules.scorenetwork.org/preprints.html"
-    target="_blank">preprint servers</a> also have a lot of additional
-    modules to peruse.
-- Submit a module, module idea, or dataset:
-  <a href="https://scorenetwork.org/submissions.html"
-  target="_blank">scorenetwork.org/submissions.html</a>
-  - Instructions on how to submit materials to SCORE
-- Link for student reviews: <a
+
+ACTIVITY - TBD
+
+## Level 3 - Student Contributions
+
+- Student reviews <a
   href="https://docs.google.com/forms/d/e/1FAIpQLSd7Sigx6d8h4RHu0EsybC4K6C1aUFL5t1AcpwlPj897eOtC9A/viewform"
   target="_blank">Google form for Student Reviews</a>
   - Have your students work through and then review a proposed SCORE
     module
+- Submit a module, module idea, or dataset:
+  <a href="https://scorenetwork.org/submissions.html"
+  target="_blank">scorenetwork.org/submissions.html</a>
+  - Instructions on how to submit materials to SCORE
 
-## Example Module Ideas & Datasets
+### Useful links (Summary)
 
-To help you get started, here are a few examples and templates.
+- SCORE Network website:
+  <a href="https://scorenetwork.org" target="_blank">scorenetwork.org</a>
 
-- <a
-  href="https://github.com/iramler/score_uscots_2025_workshop/tree/main/module_examples"
-  target="_blank">Example Modules</a>
-- [Module Templates](module_templates/)
-- [Data Repository Template](module_templates/_dataset-template.qmd)
-- <a
-  href="https://iramler.github.io/score_uscots_2025_workshop/module_ideas.html"
-  target="_blank">Ideas to help you start brainstorming your own</a>.
+- Module Repository: <a href="https://modules.scorenetwork.org"
+  target="_blank">modules.scorenetwork.org</a>
 
-## Surveys
+  - Also <a href="https://modules.scorenetwork.org/preprints.html"
+    target="_blank">preprint servers</a> for modules under review or in
+    preparation.
 
-Pre-workshop: Please fill out this survey before the workshop so we have
-a sense as to what people are interested in!
+- Datasets Repository: <a href="https://data.scorenetwork.org"
+  target="_blank">data.scorenetwork.org</a>
 
-- <a href="https://forms.gle/u7Dio3YtDDDNjkV9A"
-  target="_blank">https://forms.gle/u7Dio3YtDDDNjkV9A</a>
+- Submit a module, module idea, or dataset:
+  <a href="https://scorenetwork.org/submissions.html"
+  target="_blank">scorenetwork.org/submissions.html</a>
 
-Post-workshop: Please fill out this survey after the workshop so we can
-better understand what when well and what didn’t!
-
-- <a href="https://forms.gle/LaYDFDRbE1eEvW2X7"
-  target="_blank">https://forms.gle/LaYDFDRbE1eEvW2X7</a>
+- Link for student reviews: <a
+  href="https://docs.google.com/forms/d/e/1FAIpQLSd7Sigx6d8h4RHu0EsybC4K6C1aUFL5t1AcpwlPj897eOtC9A/viewform"
+  target="_blank">Google form for Student Reviews</a>
 
 ------------------------------------------------------------------------
 
-*Workshop leads: Ivan Ramler (St. Lawrence University), Nick Clark
-(St. Thomas University), Robin Lock (St. Lawrence University), Michael
+*Breakout leads: Robin Lock (St. Lawrence University), Ivan Ramler
+(St. Lawrence University), Nick Clark (St. Thomas University), Michael
 Schuckers (University of North Carolina - Charlotte)*
